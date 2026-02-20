@@ -1,0 +1,6 @@
+build/
+OriginalBills/
+output/
+venv/
+dist/
+.idea/
